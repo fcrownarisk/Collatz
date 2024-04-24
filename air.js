@@ -1,5 +1,5 @@
 import './container/even'
-import './compressor/odd'
+import './compresser/odd'
 import './XYZ/X1Y1Z1'
 import './ZYX/Z2Y2X2'
 import './NaN.dockerfile'
