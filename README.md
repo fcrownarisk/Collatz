@@ -6,4 +6,4 @@ we need two math model or two geometry solid body to express mobius ring and pen
 # add minus multiple division mod pow
 # in account of declare module X{} Y{} Z{} 
 # So we have to apply typescript files by importing neccessary components
-# such as penrose_stage and mobius_ring
+# such as penrose_stage and mobius_TORUS
