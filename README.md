@@ -1,7 +1,6 @@
 # Collatz_Conjecture
 this topic mainly discuss about Collatz Conjecture <br>
-(shrink contain)(JavaMC:Cubic Chunk,lucraft core,creative core) <br>
-we need two math model or two geometry solid body to express mobius ring and penrose stage 
+we need 3 math model or 3 solid body to express mobius ring and penrose stage 
 (shrink contain)(JavaMC:Cubic Chunk,lucraft core,creative core)<br>
 # 6 math OPERATOR + - * % / ^ 
 
